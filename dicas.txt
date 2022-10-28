@@ -1,3 +1,5 @@
 servidor fake
 yarn add json-server
 
+//react router
+yarn add react-router-dom@6
