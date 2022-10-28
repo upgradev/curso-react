@@ -1,0 +1,3 @@
+servidor fake
+yarn add json-server
+

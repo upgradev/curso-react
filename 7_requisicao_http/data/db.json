@@ -1,0 +1,59 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Camisa",
+      "price": 59.9
+    },
+    {
+      "id": 2,
+      "name": "Calça vermelha",
+      "price": 90
+    },
+    {
+      "id": 3,
+      "name": "Boné aba reta",
+      "price": 29.9
+    },
+    {
+      "name": "teste",
+      "price": "12",
+      "id": 4
+    },
+    {
+      "name": "sdfsdf",
+      "price": "123",
+      "id": 5
+    },
+    {
+      "name": "teclado'",
+      "price": "112",
+      "id": 6
+    },
+    {
+      "name": "mouse",
+      "price": "100",
+      "id": 7
+    },
+    {
+      "name": "cadeira",
+      "price": "790",
+      "id": 8
+    },
+    {
+      "name": "teste",
+      "price": "123",
+      "id": 9
+    },
+    {
+      "name": "aqui",
+      "price": "145",
+      "id": 10
+    },
+    {
+      "name": "ola",
+      "price": "456",
+      "id": 11
+    }
+  ]
+}
