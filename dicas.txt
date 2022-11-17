@@ -6,3 +6,7 @@ yarn add react-router-dom@6
 
 //firebase
 yarn add firebase
+
+yarn add bcryptjs cors dotenv express express-validator jsonwebtoken mongoose multer 
+yarn add -D nodemon
+yarn add react-redux
