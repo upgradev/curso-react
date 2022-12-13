@@ -1,3 +1,9 @@
+////criar projeto react
+npx create-react-app nomedoprojeto 
+
+////criar projeto react com typescript
+npx create-react-app nomedoprojeto  --template typescript
+
 servidor fake
 yarn add json-server
 
@@ -10,3 +16,5 @@ yarn add firebase
 yarn add bcryptjs cors dotenv express express-validator jsonwebtoken mongoose multer 
 yarn add -D nodemon
 yarn add react-redux
+
+//
